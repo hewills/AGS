@@ -1,0 +1,29 @@
+Title screen: start, exit (instructions on same page)
+
+Keep score.
+
+First screen is outside of store.
+Hotspots: Door, building, dumpster, payphone, myself
+
+Door: "That's the way in."
+Building: "My favorite convenience store."
+Dumpster: "Yuck. I have no need to go through garbage."
+Payphone: "Wow, what it is, 1995."
+Myself: "I'm lookin good."
+
+Second screen is inside of store.
+
+Hotspots: atm, fire alarm, clerk, store shelves, gun, robber
+
+ATM: "Bank of USA money machine."
+Fire alarm: "Fire alarm lever."
+Shelves: "So many goodies in one convenient place."
+Clerk: "That's one bored looking employee."
+Gun: "A .45 caliber if I'm not mistaken."
+Robber: "This guys bad news."
+
+Dialog: clerk
+
+Inventory: wallet, gun
+
+

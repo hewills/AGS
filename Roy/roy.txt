@@ -1,0 +1,154 @@
+Roy, New Mexico
+
+------------------------------------------------------
+[SCREEN 1 - Interior of truck cab]
+Hotspots - Radio, Mirror, Ignition, Glove compartment, Manual, Car door, Windshield, Truck interior
+Objects - Keys
+----------------------------------
+Wake up in a car, don't know where or who we are. Glove box is empty except for truck manual.
+Back window has a hole, and is cracked badly. Windshield is broken in.
+------------------------------------------------------
+
+
+------------------------------------------------------
+[SCREEN 2 - Outside of truck, middle of desert]
+Hotspots - Car door, Truck cab, Left side, Right side, desert, highway, Yourself
+Objects - Paper bag, gun, money, receipt
+----------------------------------
+Can't walk anywhere. Can only use key to drive truck down the highway, once you have the Roy address.
+Find receipt, with phone# written on it, a gun and stack of money, covered in blood in the
+back of the truck. Address on receipt leads back to roy, new mexico.
+You feel pretty fit. Your hands are a bit rough.
+No tattoos, no piercings.
+------------------------------------------------------
+
+
+------------------------------------------------------
+[SCREEN 3 - Cactus Stand]
+Hotspots - Cacti, Brad, Sign
+Objects - none
+----------------------------------
+Stop at a roadstand selling cactus. He doesn't have a phone.
+But they give directions to Roy.
+Keep driving.
+------------------------------------------------------
+
+
+------------------------------------------------------
+[SCREEN 4 - Annette's Cafe (Exterior)]
+Hotspots - Cafe, Front door, North side
+Objects - none
+----------------------------------
+Get to Roy (see watertank), and find 24hour Annette's Cafe.
+Can't walk to northside until you call the phone company, and Annette tells you where it is.
+------------------------------------------------------
+
+
+------------------------------------------------------
+[SCREEN 5 - Annette's Cafe (Interior)]
+Hotspots - Annette, Customers, Payphone, Calendar, Sign (specials)
+Objects - knapsack, wallet, license, multi-tool, pens, duck tape, gloves, 7 keys, coins
+----------------------------------
+If you look at calendar, you can see it's the same day as the receipt. 
+Talk to Annette, she'll remember you being there earlier in the evening.
+And you've had coffee there, black, almost every day in the last few weeks. 
+Annette gives you a knapsack you dropped outside in the parking lot.
+It has your wallet with a license, with a Washington D.C. address. A multi-tool. 
+Pens. Duck tape. Gloves. A keyring, with 7 keys.
+Ask her about any strangeness in town, but she doesn't know of any.
+You need change for the phone, and need to talk to Annette for coins using the cash.
+Call the number, and its the local phone company.
+Asks Annette where the phone company is, and she says it's just behind the diner.
+------------------------------------------------------
+
+
+------------------------------------------------------
+[SCREEN 6 - RoyCo TelCo (Exterior)]
+Hotspots - Windows, Front Door, Building, Red spot (blood)
+Objects - none
+----------------------------------
+Walks around to the front doors, but they are locked, and the lights are off.
+Try the keys in the knapsack, they open the door.
+------------------------------------------------------
+
+
+------------------------------------------------------
+[SCREEN 7 - RoyCo Telco (Lobby)]
+Hotspots - Front desk, Directory, Desk phone, Elevator, Elevator Button (mini window), Front door, Office doors
+Objects - none
+----------------------------------
+Theres a directory and some things on the front desk.
+Blood print on basement service button. Use the key to allow using the service elevator.
+Take the elevator down to the basement. 
+------------------------------------------------------
+
+
+------------------------------------------------------
+[SCREEN 8 - Basement]
+Hotspots - Body, money, light from doorway, Telco servers and switches
+Objects - none
+----------------------------------
+There is a dead body, with a gunshot wound!
+And a couple bills near him. She thinks she might have done this.
+Further down the hall she sees a light.
+------------------------------------------------------
+
+
+------------------------------------------------------
+[SCREEN 9 - Basement room]
+Hotspots - Safe, desks, Sign, control panel
+Objects - none
+----------------------------------
+Inside the lit room, a large safe is open, and she can't hear anything.
+She goes inside. Inside there are guys with masks, and one with a gun. Two are watching, while one is trying to get
+one of the internal safes open with a listening device. They spot her and turn the gun on her.
+"You?! How did you find us?"
+She pulls her gun and shoots him. The other two guys run past her, out the
+room. They hit a button outside that closes the safety gate,  trapping her with the safes.
+
+There is a notice on the gate.
+
+"In case of door jam call Stacy in Maintenance at X453"
+
+Seeing the name Stacy looks familiar, and her memory starts to come back.
+She sees herself at her desk, with tools around. And her desk tag, with her name.
+"Stacy.... oh my god. I remember."
+
+[SCREEN 10 - Flashback] (optional)
+She has a flashback of the days events, that she had forgotten.
+
+Now that she remembers who she is, she can use the multitool to open the gate controls and override them,
+opening the gate.
+
+She uses the desk phone to call the cops. 
+
+[SCREEN 11 - Ending] (optional)
+Epilogue: The cops reveal the rest of the story. How they were caught. They had hid the gun in the back of her truck.
+When they were returning to the building to rob the other safe. Then chased her down in the desert, but
+she must have lost them.
+
+Stacy can't believe she moved here to get away from dangerous city life, only to be
+thrown into this mess.
+
+THE END
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

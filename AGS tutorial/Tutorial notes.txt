@@ -1,0 +1,40 @@
+AGS videos:  (AGS 3.3.3) "Tutorial"
+
+Download AGS: http://www.adventuregamestudio.co.uk/site/ags/
+AGS forums: http://www.adventuregamestudio.co.uk/forums/
+
+'Get Started' Tutorial.
+
+Video 1: Installation and Setup
+* Where to Install and version
+* Starting a new game
+* General Settings tab - color, resolution
+* Screen shot of the different Speech styles
+
+Video 2: Game Menus and Inventory
+
+
+Video 3: Objects and Backgrounds
+
+
+Video 4: Hotspots and Characters
+
+
+Video 5: Game Logic
+
+
+Video 6: Dialog
+
+
+Video 7: Animation
+
+
+Video 8: Game Completion
+
+------------------------------------------------
+
+Extra Video: Adding voiceover and music.
+
+Extra Video: Useful free tools
+Paint.net, Gimp, Audacity
+
