@@ -1,0 +1,27 @@
+Random direction by characters.
+Bounce off hard objects?
+Choose victim.
+Random sneeze direction
+Somewhat random direction particles, but wind will push particles.
+On contact, will create more sneeze actions, and more particles.
+Track number of infected
+-----------
+
+Need max/min boundaries to keep them on screen.
+They'll walk through each other for now, its easier.
+
+Different speeds for different objects
+
+Random directions continously but not always continuously.
+Every number of random ticks, has possibility of changing direction.
+
+Pick initial direction for each character
+Keep moving unless they change, then keep going that way.
+
+Maybe add windows to change wind.
+Add items the block germs, and people can't walk through them.
+
+http://soundbible.com/526-Sneeze.html
+
+Kitten Pox
+
